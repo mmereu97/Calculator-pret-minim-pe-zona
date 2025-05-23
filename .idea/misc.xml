@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Black">
-    <option name="sdkName" value="Calculator_pret_minim_pe_zona_env" />
+    <option name="sdkName" value="Calculator-pret-minim-pe-zona_env" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Calculator_pret_minim_pe_zona_env" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Calculator-pret-minim-pe-zona_env" project-jdk-type="Python SDK" />
 </project>

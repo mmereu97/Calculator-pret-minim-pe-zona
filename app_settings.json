@@ -1,20 +1,21 @@
 {
     "window_size": {
-        "width": 1420,
-        "height": 1269
+        "width": 1776,
+        "height": 1397
     },
     "column_widths": [
-        108,
+        67,
         189,
-        877,
-        163,
-        176,
-        1236
+        624,
+        133,
+        156,
+        1339
     ],
     "curs_euro": 5.2,
     "onorariu_minim": 600.0,
     "tva_onorariu": 19.0,
-    "taxa_arhivare": 45.0,
+    "taxa_arhivare": 100.0,
     "pret_extras": 40.0,
-    "pret_legalizare": 5.95
+    "pret_legalizare": 5.95,
+    "prag_minim_cf": 60.0
 }
